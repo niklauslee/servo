@@ -1,0 +1,6 @@
+{
+  "name": "servo",
+  "version": "1.0.0",
+  "description": "Kaluma library to control servo motors",
+  "main": "index.js"
+}
